@@ -1,0 +1,15 @@
+{
+  "name": "ml-converter",
+  "version": "1.0.0",
+  "description": "Generates wav based on text csv.",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "microsoft-cognitiveservices-speech-sdk": "^1.23.0"
+  }
+}
