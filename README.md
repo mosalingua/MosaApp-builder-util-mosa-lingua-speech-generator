@@ -34,7 +34,7 @@ OK, let's do it;UnknownNameRaiseError;1234567
 
 ### Clone this repository
 ```
-git clone <repo-url>
+git clone https://github.com/seeker1983/mosa-lingua-speech-generator
 ```
 
 ### Install dependencies
